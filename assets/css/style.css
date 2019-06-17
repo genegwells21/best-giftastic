@@ -1,0 +1,31 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: purple;
+}
+
+#authors    {
+    width: 75%;
+}
+.author-item    {
+    float: left;
+    width: 42%;
+    padding: 23px;
+}
+input[type="text"]  {
+    font-size: 20px;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+button, input [type="submit"]   {
+   font-size: 20px;
+    padding: 6px 21px;
+    margin: 0 11px 11px 0;
+    color: gold;
+    cursor: pointer;
+    background-color: green;
+    border: 0;
+    border-radius: 6px;
+    box-shadow: 3px 3px 4px #bbb;
+    
+}
